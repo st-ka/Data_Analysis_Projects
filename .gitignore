@@ -1,0 +1,9 @@
+# Dev
+*.sw*
+*.pyc
+*.pye
+*cache*
+venv/
+database.json
+.ipynb_checkpoints/
+
